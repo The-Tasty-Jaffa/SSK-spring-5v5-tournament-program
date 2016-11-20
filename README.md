@@ -11,7 +11,7 @@ New groups of 3 will be genarted
 
 Worst team will be eliminated
 
-New groups will be genarated and so on utill it becomes just 2 teams left
+New groups will be genarated of 4 and so on utill just 2 teams left
 
 The final 2 teams will battle in a best of 3.
 
