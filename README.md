@@ -8,3 +8,5 @@
 # New groups will be genarated and so on utill it becomes just 2 teams left
 # The final 2 teams will battle in a best of 3.
 # versions 1-5 are tests on the system 
+* Writen by "The-Tasy-Jaffa" *
+* Feel free to go and use this for what ever you wish *
